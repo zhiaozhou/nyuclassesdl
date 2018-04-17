@@ -12,3 +12,9 @@ Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr
 JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://www.nyu.edu/etc/designs/nyu/clientlibs/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://api-e4c9863e.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=9cfbc, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 131700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 132560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 132652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 132652, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

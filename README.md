@@ -1,7 +1,10 @@
 nyuclassesdl
 =====
+_Developer: Zhiao Zhou ([@zhiaozhou](https://github.com/zhiaozhou) | <zz1749@nyu.edu> | [Linkedin](https://www.linkedin.com/in/zhiaozhou/))_ 
 
 nyuclassesdl is a python library for automatically downloading files from NYU Classes learning management system. And it's only available to NYU students or faculties.
+
+Now it can only download every file of all of your classes just like a git clone
 
 Dependencies
 =============
@@ -39,7 +42,7 @@ you can start to use it by typing nyuclassesdl [argument]
 | Argument | Description |
 | :--: | :--: |
 | --MFA | choose a way for MFA: now only "duo" is supported |
-| --dir | choose a directory to download the files |
+| --dir | choose a directory to download the files(Optional) |
 | --un | NYU netid |
 | --ps | NYU password |
 
