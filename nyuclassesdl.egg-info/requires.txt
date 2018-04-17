@@ -1,0 +1,2 @@
+argparse
+selenium>=3.11.0

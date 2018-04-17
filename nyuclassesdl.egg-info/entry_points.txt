@@ -1,0 +1,3 @@
+[console_scripts]
+nyuclassesdl = nyuclassesdl.__main__:main
+

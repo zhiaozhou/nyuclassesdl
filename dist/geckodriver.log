@@ -1,0 +1,14 @@
+1523942337902	geckodriver	INFO	geckodriver 0.20.1
+1523942337917	geckodriver	INFO	Listening on 127.0.0.1:14936
+1523942340915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.nXaibdMpDDXm"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523942342564	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523942344328	Marionette	INFO	Listening on port 14944
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523942344972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.nyu.edu/etc/designs/nyu/clientlibs/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api-e4c9863e.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=9cfbc, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
