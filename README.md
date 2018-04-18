@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/nyuclassesdl.svg)](https://badge.fury.io/py/nyuclassesdl)
+
 nyuclassesdl
 =====
 _Developer: Zhiao Zhou ([@zhiaozhou](https://github.com/zhiaozhou) | <zz1749@nyu.edu> | [Linkedin](https://www.linkedin.com/in/zhiaozhou/))_ 
@@ -35,6 +37,8 @@ Documentation and usage
 Now this package can be only used with a Firefox browser installed.
 
 Then you will have to install Geckodriver from [Geckodriver/releases](https://github.com/mozilla/geckodriver/releases) and then put the executable file inside the root folder of your Firefox directory (Ex. C:\Program Files\Mozilla Firefox\)
+
+For Mac users, put it under usr/local/bin
 
 Then after installing the package using pip
 you can start to use it by typing nyuclassesdl [argument]
