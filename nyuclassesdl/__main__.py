@@ -5,6 +5,7 @@ import argparse
 from nyuclassesdl import run
 
 def main():
+
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--MFA", help="choose a way for MFA", type=str)

@@ -1,0 +1,490 @@
+1524107561651	geckodriver	INFO	geckodriver 0.20.1
+1524107561670	geckodriver	INFO	Listening on 127.0.0.1:2562
+1524107564666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.h1O9eLwHOCef"
+1524107564864	addons.manager	DEBUG	Application has been upgraded
+1524107564882	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1524107564886	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1524107564902	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1524107564904	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1524107564904	addons.manager	DEBUG	Starting provider: XPIProvider
+1524107564904	addons.xpi	DEBUG	startup
+1524107564904	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1524107564904	addons.xpi	INFO	Removing all system add-on upgrades.
+1524107564906	addons.xpi	DEBUG	checkForChanges
+1524107564906	addons.xpi	DEBUG	Loaded add-on state: ${}
+1524107564906	addons.xpi	INFO	Mapping activity-stream@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1524107564906	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1524107564906	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1524107564906	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1524107564906	addons.xpi	INFO	Mapping formautofill@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1524107564906	addons.xpi	INFO	Mapping onboarding@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1524107564906	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1524107564908	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1524107564908	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1524107564908	addons.xpi	DEBUG	New add-on activity-stream@mozilla.org in app-system-defaults
+1524107564908	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1524107564910	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1524107564910	addons.xpi	DEBUG	New add-on followonsearch@mozilla.com in app-system-defaults
+1524107564910	addons.xpi	DEBUG	New add-on formautofill@mozilla.org in app-system-defaults
+1524107564910	addons.xpi	DEBUG	New add-on onboarding@mozilla.org in app-system-defaults
+1524107564912	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1524107564912	addons.xpi	DEBUG	New add-on shield-recipe-client@mozilla.org in app-system-defaults
+1524107564912	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1524107564912	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1524107564912	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1524107564914	addons.xpi	DEBUG	getInstallState changed: true, state: {}
+1524107564914	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1524107564918	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\Administrator\AppData\Local\Temp\rust_mozprofile.h1O9eLwHOCef\extensions.json
+1524107564918	addons.xpi-utils	DEBUG	New add-on activity-stream@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1524107564938	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1524107564940	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1524107564944	addons.xpi-utils	DEBUG	New add-on followonsearch@mozilla.com installed in app-system-defaults
+1524107564946	addons.xpi-utils	DEBUG	New add-on formautofill@mozilla.org installed in app-system-defaults
+1524107564950	addons.xpi-utils	DEBUG	New add-on onboarding@mozilla.org installed in app-system-defaults
+1524107564954	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+1524107564958	addons.xpi-utils	DEBUG	New add-on shield-recipe-client@mozilla.org installed in app-system-defaults
+1524107564960	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1524107564964	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1524107564968	addons.manager	DEBUG	Registering startup change 'installed' for activity-stream@mozilla.org
+1524107564974	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1524107564978	addons.xpi	DEBUG	Calling bootstrap method install on activity-stream@mozilla.org version 2018.02.17.0026-173e2795
+1524107564978	addons.xpi-utils	DEBUG	Make addon app-system-defaults:activity-stream@mozilla.org visible
+1524107564978	addons.xpi	DEBUG	Updating XPIState for {"id":"activity-stream@mozilla.org","syncGUID":"{388951ff-6637-451c-97e6-efec53f6496d}","location":"app-system-defaults","version":"2018.02.17.0026-173e2795","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Activity Stream","description":"A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you're looking for in Firefox.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746601,"updateDate":1521831746601,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\activity-stream@mozilla.org.xpi","skinnable":false,"size":2766943,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107564980	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1524107564980	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1524107564982	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1524107564982	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1524107564982	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{cf93fe7f-a3c3-49e5-955a-10b2d8d6ab51}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746602,"updateDate":1521831746602,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107564982	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1524107564984	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1524107564988	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1524107564988	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1524107564988	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{b3b3ce27-1cb6-4e34-81e5-d2af4189a873}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746607,"updateDate":1521831746607,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":916335,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107564988	addons.manager	DEBUG	Registering startup change 'installed' for followonsearch@mozilla.com
+1524107564988	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1524107564990	addons.xpi	DEBUG	Calling bootstrap method install on followonsearch@mozilla.com version 0.9.6
+1524107564990	addons.xpi-utils	DEBUG	Make addon app-system-defaults:followonsearch@mozilla.com visible
+1524107564990	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{4ad4abd7-af16-4f7f-aa59-9cfdc60e1a0e}","location":"app-system-defaults","version":"0.9.6","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746608,"updateDate":1521831746608,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":18625,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"66.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107564990	addons.manager	DEBUG	Registering startup change 'installed' for formautofill@mozilla.org
+1524107564990	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1524107564992	addons.xpi	DEBUG	Calling bootstrap method install on formautofill@mozilla.org version 1.0
+1524107564992	addons.xpi-utils	DEBUG	Make addon app-system-defaults:formautofill@mozilla.org visible
+1524107564992	addons.xpi	DEBUG	Updating XPIState for {"id":"formautofill@mozilla.org","syncGUID":"{b905288c-1b86-4c74-a499-6f81a541646f}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Form Autofill","description":"Autofill forms with saved profiles","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746611,"updateDate":1521831746611,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\formautofill@mozilla.org.xpi","skinnable":false,"size":458018,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107564994	addons.manager	DEBUG	Registering startup change 'installed' for onboarding@mozilla.org
+1524107564994	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1524107564996	addons.xpi	DEBUG	Calling bootstrap method install on onboarding@mozilla.org version 1.0
+1524107564996	addons.xpi-utils	DEBUG	Make addon app-system-defaults:onboarding@mozilla.org visible
+1524107564996	addons.xpi	DEBUG	Updating XPIState for {"id":"onboarding@mozilla.org","syncGUID":"{92e2e595-f482-48d7-a869-34fd4ed4b1df}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Photon onboarding","description":"Photon onboarding","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746616,"updateDate":1521831746616,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\onboarding@mozilla.org.xpi","skinnable":false,"size":566876,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107564996	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1524107564998	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1524107565000	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 25.0.0
+1524107565000	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1524107565000	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{79a27533-e0c8-4f7e-8961-8d53e88f2c9a}","location":"app-system-defaults","version":"25.0.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://screenshots.firefox.com/"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746622,"updateDate":1521831746622,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":994512,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"57.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565000	addons.manager	DEBUG	Registering startup change 'installed' for shield-recipe-client@mozilla.org
+1524107565000	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1524107565004	addons.xpi	DEBUG	Calling bootstrap method install on shield-recipe-client@mozilla.org version 80
+1524107565004	addons.xpi-utils	DEBUG	Make addon app-system-defaults:shield-recipe-client@mozilla.org visible
+1524107565004	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{1e536e6a-d14d-4f3d-9b47-ba818c1611c0}","location":"app-system-defaults","version":"80","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746625,"updateDate":1521831746625,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":365969,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565004	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1524107565004	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1524107565006	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.1
+1524107565006	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1524107565006	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{f16792f3-fd4c-4ce9-8342-152155546162}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746625,"updateDate":1521831746625,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":9268,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565006	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1524107565008	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{c53bdff1-dddb-47c2-89a1-aa5726773a6b}","location":"app-global","version":"59.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1521831746588,"updateDate":1521831746588,"applyBackgroundUpdates":1,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":3016,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565008	addons.xpi	DEBUG	Updating XPIState for {"id":"activity-stream@mozilla.org","syncGUID":"{388951ff-6637-451c-97e6-efec53f6496d}","location":"app-system-defaults","version":"2018.02.17.0026-173e2795","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Activity Stream","description":"A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you're looking for in Firefox.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746601,"updateDate":1521831746601,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\activity-stream@mozilla.org.xpi","skinnable":false,"size":2766943,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565008	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{cf93fe7f-a3c3-49e5-955a-10b2d8d6ab51}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746602,"updateDate":1521831746602,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565008	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{b3b3ce27-1cb6-4e34-81e5-d2af4189a873}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746607,"updateDate":1521831746607,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","skinnable":false,"size":916335,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565008	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{4ad4abd7-af16-4f7f-aa59-9cfdc60e1a0e}","location":"app-system-defaults","version":"0.9.6","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746608,"updateDate":1521831746608,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\followonsearch@mozilla.com.xpi","skinnable":false,"size":18625,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"66.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565008	addons.xpi	DEBUG	Updating XPIState for {"id":"formautofill@mozilla.org","syncGUID":"{b905288c-1b86-4c74-a499-6f81a541646f}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Form Autofill","description":"Autofill forms with saved profiles","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746611,"updateDate":1521831746611,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\formautofill@mozilla.org.xpi","skinnable":false,"size":458018,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565008	addons.xpi	DEBUG	Updating XPIState for {"id":"onboarding@mozilla.org","syncGUID":"{92e2e595-f482-48d7-a869-34fd4ed4b1df}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Photon onboarding","description":"Photon onboarding","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746616,"updateDate":1521831746616,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\onboarding@mozilla.org.xpi","skinnable":false,"size":566876,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565008	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{79a27533-e0c8-4f7e-8961-8d53e88f2c9a}","location":"app-system-defaults","version":"25.0.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://screenshots.firefox.com/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746622,"updateDate":1521831746622,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","skinnable":false,"size":994512,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"57.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565010	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{1e536e6a-d14d-4f3d-9b47-ba818c1611c0}","location":"app-system-defaults","version":"80","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746625,"updateDate":1521831746625,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":365969,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565010	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{f16792f3-fd4c-4ce9-8342-152155546162}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746625,"updateDate":1521831746625,"applyBackgroundUpdates":1,"bootstrap":true,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","skinnable":false,"size":9268,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565010	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{c53bdff1-dddb-47c2-89a1-aa5726773a6b}","location":"app-global","version":"59.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1521831746588,"updateDate":1521831746588,"applyBackgroundUpdates":1,"path":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":3016,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"59.0.2","maxVersion":"59.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1524107565010	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1524107565010	addons.xpi-utils	DEBUG	Updating add-on states
+1524107565012	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1524107565014	addons.xpi	DEBUG	Calling bootstrap method startup on activity-stream@mozilla.org version 2018.02.17.0026-173e2795
+1524107565014	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1524107565016	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1524107565016	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1524107565018	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1524107565024	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1524107565026	addons.xpi	DEBUG	Calling bootstrap method startup on followonsearch@mozilla.com version 0.9.6
+1524107565026	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1524107565026	addons.xpi	DEBUG	Calling bootstrap method startup on formautofill@mozilla.org version 1.0
+1524107565026	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1524107565026	addons.xpi	DEBUG	Calling bootstrap method startup on onboarding@mozilla.org version 1.0
+1524107565026	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1524107565028	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 25.0.0
+1524107565028	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1524107565028	addons.xpi	DEBUG	Calling bootstrap method startup on shield-recipe-client@mozilla.org version 80
+1524107565034	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1524107565034	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1524107565036	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1524107565036	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1524107565036	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1524107565036	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1524107565036	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1524107565038	addons.manager	DEBUG	Starting provider: GMPProvider
+1524107565050	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1524107565050	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1524107565050	addons.manager	DEBUG	Starting provider: PluginProvider
+1524107565050	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1524107565050	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1524107565052	addons.manager	DEBUG	Completed startup sequence
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1524107566164	Marionette	INFO	Enabled via --marionette
+1524107566330	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1524107566330	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1524107566330	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1524107567526	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 24
+1524107567810	addons.xpi	INFO	Mapping activity-stream@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1524107567810	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1524107567810	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1524107567810	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1524107567810	addons.xpi	INFO	Mapping formautofill@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1524107567810	addons.xpi	INFO	Mapping onboarding@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1524107567810	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1524107567810	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1524107567810	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1524107567810	addons.xpi	DEBUG	Existing add-on activity-stream@mozilla.org in app-system-defaults
+1524107567812	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1524107567812	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1524107567812	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1524107567812	addons.xpi	DEBUG	Existing add-on formautofill@mozilla.org in app-system-defaults
+1524107567812	addons.xpi	DEBUG	Existing add-on onboarding@mozilla.org in app-system-defaults
+1524107567814	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1524107567814	addons.xpi	DEBUG	Existing add-on shield-recipe-client@mozilla.org in app-system-defaults
+1524107567814	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1524107567814	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1524107567814	addons.xpi	DEBUG	Existing add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1524107567814	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1524107567938	Marionette	INFO	Listening on port 2573
+1524107568364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://shibboleth.nyu.edu/idp/sso/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSource::Msg_ExecutionReady Route error: message sent to unknown actor ID
+
+1524108076182	addons.manager	INFO	Skipping background update check
+1524108452026	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/59.0.2/20180323154952/WINNT_x86_64-msvc-x64/zh-CN/release/Windows_NT%2010.0.0.0.16299.371%20(x64)/default/default/update.xml
+1524108452492	addons.productaddons	INFO	Completed downloading document
+1524108452632	addons.productaddons	INFO	downloadXHR File download. status=200
+1524108452636	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\ADMINI~1\AppData\Local\Temp\tmpaddon-4ff69a
+1524108453560	addons.productaddons	INFO	downloadXHR File download. status=200
+1524108453564	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\ADMINI~1\AppData\Local\Temp\tmpaddon-c66732
+1524108795638	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1524108795638	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 80
+1524108795640	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 25.0.0
+1524108795644	addons.xpi	DEBUG	Calling bootstrap method shutdown on onboarding@mozilla.org version 1.0
+1524108795644	addons.xpi	DEBUG	Calling bootstrap method shutdown on formautofill@mozilla.org version 1.0
+1524108795644	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.6
+1524108795646	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1524108795646	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1524108795646	addons.xpi	DEBUG	Calling bootstrap method shutdown on activity-stream@mozilla.org version 2018.02.17.0026-173e2795
+[Parent 6456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9692, Chrome_ChildThread] WARNING: pipe error: 109: [Child 1628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9440, Chrome_ChildThread]1524108795720	addons.manager	DEBUG	shutdown
+1524108795720	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1524108795720	addons.xpi	DEBUG	shutdown
+1524108795720	addons.xpi-utils	DEBUG	shutdown
+1524108795720	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1524108795720	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1524108795720	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1524108795720	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1524108795724	addons.manager	DEBUG	Async provider shutdown done
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BUG	Calling shutdown blocker for LightweightThemeManager
+1524105551776	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1524105551778	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1524105551778	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1524105551784	addons.manager	DEBUG	Async provider shutdown done
+m/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 41072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524105129132	addons.manager	DEBUG	shutdown
+1524105129134	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1524105129134	addons.xpi	DEBUG	shutdown
+1524105129136	addons.xpi-utils	DEBUG	shutdown
+1524105129136	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1524105129138	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1524105129142	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1524105129142	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1524105129158	addons.manager	DEBUG	Async provider shutdown done
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+[Parent 36308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Parent 36308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Parent 36308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 33700, Chrome_ChildThread] WARNING:1524083052734	addons.manager	DEBUG	shutdown
+1524083052738	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1524083052740	addons.xpi	DEBUG	shutdown
+1524083052740	addons.xpi-utils	DEBUG	shutdown
+1524083052740	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1524083052740	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1524083052740	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1524083052740	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1524083052746	addons.manager	DEBUG	Async provider shutdown done
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/developer-toolbar.js, line 742: TypeError: this._chromeWindow.gBrowser.selectedTab is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

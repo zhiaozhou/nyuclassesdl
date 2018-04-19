@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='nyuclassesdl',
-    version='1.1.0',
+    version='1.2.0',
     description='a python library for automatically downloading files from NYU Classes',
     long_description=long_description, 
     long_description_content_type='text/markdown',
@@ -37,7 +37,7 @@ setup(
     keywords='nyu nyuclasses', 
     packages=find_packages(exclude=['contrib', 'docs', 'tests']), 
 
-    install_requires=['argparse','selenium>=3.11.0'],  
+    install_requires=['argparse','selenium>=3.11.0','mime'],  
     
     scripts = [],
     entry_points = {
