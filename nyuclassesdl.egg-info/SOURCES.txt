@@ -3,7 +3,8 @@ setup.py
 nyuclassesdl/__init__.py
 nyuclassesdl/__main__.py
 nyuclassesdl/argparser.py
-nyuclassesdl/nyuclassesdl.py
+nyuclassesdl/chrome.py
+nyuclassesdl/firefox.py
 nyuclassesdl.egg-info/PKG-INFO
 nyuclassesdl.egg-info/SOURCES.txt
 nyuclassesdl.egg-info/dependency_links.txt

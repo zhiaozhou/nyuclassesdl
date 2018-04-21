@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: nyuclassesdl
-Version: 1.2.0
+Version: 1.3.0
 Summary: a python library for automatically downloading files from NYU Classes
 Home-page: https://github.com/zhiaozhou/nyuclassesdl
 Author: Zhiao Zhou
